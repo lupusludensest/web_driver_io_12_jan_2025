@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "3c41ca5c6a908674",
+      "parentUid" : "1e569911a0dd59e08749749da60112c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1736718830419,
+        "stop" : 1736718832263,
+        "duration" : 1844
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-131.0.6778.265" ]
+    } ],
+    "uid" : "1e569911a0dd59e08749749da60112c5"
+  }, {
+    "name" : "Demo Tests",
+    "children" : [ {
+      "name" : "My First Test",
+      "uid" : "a87fd8396878960c",
+      "parentUid" : "799522da8fb51d759f41aeff2238fc24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1736720434864,
+        "stop" : 1736720437556,
+        "duration" : 2692
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-131.0.6778.265" ]
+    } ],
+    "uid" : "799522da8fb51d759f41aeff2238fc24"
+  } ]
+}

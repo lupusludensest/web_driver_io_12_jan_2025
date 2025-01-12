@@ -1,0 +1,108 @@
+{
+  "uid" : "f110326eac92b162",
+  "name" : "My First Test",
+  "historyId" : "af81d97430b683c6ad0b66c04019da36",
+  "time" : {
+    "start" : 1736719593634,
+    "stop" : 1736719595462,
+    "duration" : 1828
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "elementClear",
+      "time" : {
+        "start" : 1736719594705,
+        "stop" : 1736719595260,
+        "duration" : 555
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6b8eb509540e8d24",
+        "name" : "Response",
+        "source" : "6b8eb509540e8d24.txt",
+        "type" : "text/plain",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "elementSendKeys",
+      "time" : {
+        "start" : 1736719595262,
+        "stop" : 1736719595461,
+        "duration" : 199
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6880d137820b054c",
+        "name" : "Request",
+        "source" : "6880d137820b054c.txt",
+        "type" : "text/plain",
+        "size" : 27
+      }, {
+        "uid" : "363f448ac7acb21b",
+        "name" : "Response",
+        "source" : "363f448ac7acb21b.txt",
+        "type" : "text/plain",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "E:.Gurov_SSD_256.IT.Testing.Automation_08_09_2019.web_driver_io_12_jan_2025.test.specs.test1.e2e.js"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Demo Tests"
+  }, {
+    "name" : "feature",
+    "value" : "Demo Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-131.0.6778.265"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f110326eac92b162.json",
+  "parameterValues" : [ "chrome-131.0.6778.265" ]
+}

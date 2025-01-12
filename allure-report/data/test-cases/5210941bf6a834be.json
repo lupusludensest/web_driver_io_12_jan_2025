@@ -1,0 +1,50 @@
+{
+  "uid" : "5210941bf6a834be",
+  "name" : "My First Test",
+  "historyId" : "af81d97430b683c6ad0b66c04019da36",
+  "time" : {
+    "start" : 1736718806164,
+    "stop" : 1736718806175,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "E:.Gurov_SSD_256.IT.Testing.Automation_08_09_2019.web_driver_io_12_jan_2025.test.specs.test1.e2e.js"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Demo Tests"
+  }, {
+    "name" : "feature",
+    "value" : "Demo Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-131.0.6778.265"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5210941bf6a834be.json",
+  "parameterValues" : [ "chrome-131.0.6778.265" ]
+}

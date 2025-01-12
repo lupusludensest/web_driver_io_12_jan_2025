@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//name[normalize-space(text()) = \"\"q\"\"] | .//name[not(.//name[normalize-space(text()) = \"\"q\"\"]) and normalize-space() = \"\"q\"\"]"
+}

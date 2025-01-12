@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "E:.Gurov_SSD_256.IT.Testing.Automation_08_09_2019.web_driver_io_12_jan_2025.test.specs",
+    "children" : [ {
+      "name" : "test.e2e.js",
+      "children" : [ {
+        "name" : "should login with valid credentials",
+        "uid" : "3c41ca5c6a908674",
+        "parentUid" : "b2d612b1a64aac87793afb595fd38e96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1736718830419,
+          "stop" : 1736718832263,
+          "duration" : 1844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-131.0.6778.265" ]
+      } ],
+      "uid" : "test.e2e.js"
+    }, {
+      "name" : "test1.e2e.js",
+      "children" : [ {
+        "name" : "My First Test",
+        "uid" : "a87fd8396878960c",
+        "parentUid" : "76b069b08a29a817319a9682cecabe4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1736720434864,
+          "stop" : 1736720437556,
+          "duration" : 2692
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-131.0.6778.265" ]
+      } ],
+      "uid" : "test1.e2e.js"
+    } ],
+    "uid" : "E:.Gurov_SSD_256.IT.Testing.Automation_08_09_2019.web_driver_io_12_jan_2025.test.specs"
+  } ]
+}
