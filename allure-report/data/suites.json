@@ -5,13 +5,13 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "3c41ca5c6a908674",
+      "uid" : "a3815db56681813",
       "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
       "status" : "passed",
       "time" : {
-        "start" : 1736718830419,
-        "stop" : 1736718832263,
-        "duration" : 1844
+        "start" : 1736723832600,
+        "stop" : 1736723834980,
+        "duration" : 2380
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,13 +22,13 @@
     "name" : "Demo Tests",
     "children" : [ {
       "name" : "My First Test",
-      "uid" : "a87fd8396878960c",
+      "uid" : "e2ae8a1f332499a0",
       "parentUid" : "12d082099c4f7103bb9d8c91369fdf84",
       "status" : "passed",
       "time" : {
-        "start" : 1736720434864,
-        "stop" : 1736720437556,
-        "duration" : 2692
+        "start" : 1736723832615,
+        "stop" : 1736723834533,
+        "duration" : 1918
       },
       "flaky" : false,
       "newFailed" : false,
