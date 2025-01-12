@@ -38,4 +38,5 @@ git remote add origin https://github.com/lupusludensest/web_driver_io_12_jan_202
 git add .
 git commit -m "dt 12 jan 2025"
 git push -u origin main
+git status
 git pull
