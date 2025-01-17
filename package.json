@@ -21,5 +21,8 @@
         "i": "^0.3.7",
         "wdio-wait-for": "^3.0.11",
         "webdriverio": "^9.5.7"
+    },
+    "dependencies": {
+        "expect-webdriverio": "^5.0.5"
     }
 }

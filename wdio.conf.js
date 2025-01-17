@@ -187,6 +187,7 @@ exports.config = {
     before: function (capabilities, specs) {
         console.log('Running specs:', specs);
         console.log('Capabilities:', capabilities);
+        require('expect-webdriverio');
     },
     /**
      * Runs before a WebdriverIO command gets executed.

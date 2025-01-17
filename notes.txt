@@ -40,3 +40,11 @@ git commit -m "dt 12 jan 2025"
 git push -u origin main
 git status
 git pull
+
+How to implement Page Object Model
+
+Step 1 - Create a class for each Page
+Step 2 - Create locators of all objects to be used in that Page
+Step 3 - Create methods or actions to be performed on the objects
+Step 4 - Refer in the test scripts
+
