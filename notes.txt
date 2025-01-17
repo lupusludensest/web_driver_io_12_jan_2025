@@ -20,7 +20,7 @@ npx wdio run wdio.conf.js --spec .\test\specs\test1.e2e.js
 $() - to find single element
 $$() - to find multiply elements
 
-How to create reprts
+How to create reports
 Step 1 - Run
 npm install @wdio/allure-reporter --save-dev
 Step 2 - Add reporter config in wdio.conf.js
